@@ -2,7 +2,7 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import { getToken } from "../utils/auth";
 
-export default function MainPage() {
+export default function Mainpage() {
   const navigate = useNavigate();
   const token = getToken();
 
@@ -36,3 +36,4 @@ export default function MainPage() {
     </div>
   );
 }
+
