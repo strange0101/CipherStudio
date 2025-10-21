@@ -92,4 +92,4 @@ License
 
 MIT License © 2025
 
-I can also create a Markdown table with all routes including headers, request/response exam
+
